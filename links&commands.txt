@@ -1,0 +1,4 @@
+1) // To Create TypeScript Project
+    npx create-react-app quiz-app --template typescript
+2) // To Start Project
+    npm start
